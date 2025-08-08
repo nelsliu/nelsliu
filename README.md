@@ -1,16 +1,49 @@
-## Hi there 👋
+Hey, I’m Nelson 👋
 
-<!--
-**nelsliu/nelsliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Builder of automation tools & AI-powered workflows
+🚀 Turning messy processes into scalable systems
+📍 Based in Ontario, Canada
 
-Here are some ideas to get you started:
+⸻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧑‍💻 Current Projects
+	•	Cost Guardian – Track & manage OpenAI token usage before costs get out of hand
+	•	WeChef – Food cost & inventory tool for chefs and restaurants (goodbye spreadsheet chaos)
+
+⸻
+
+🛠 Tech & Tools I Work With
+	•	Languages: Python, JavaScript, SQL
+	•	Frameworks & Tools: Flask, Docker, n8n, OpenAI API
+	•	Databases: SQLite, PostgreSQL
+	•	Other: API integration, automation pipelines, workflow optimization
+
+⸻
+
+📊 What I Do Best
+	•	Break down complex workflows into clean, maintainable systems
+	•	Connect APIs, scripts, and automation tools into something seamless
+	•	Learn fast, ship fast, and fix fast
+
+⸻
+
+📈 Goals
+	•	Build & scale ops tools to reach financial freedom
+	•	Ship fast, iterate faster, and refine with real-world feedback
+	•	Share progress & lessons publicly along the way
+
+⸻
+
+## 🛠️ Leveling Up in Public
+
+Right now, my GitHub is basically a construction site —  
+half-finished tools, debug notes, and the occasional “aha!” moment.  
+I’m here to **ship, break, fix, and repeat** until the tools I build pay for themselves (and then some).
+
+![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsliu&show_icons=true&theme=radical&hide_rank=false&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nelsliu&layout=compact&theme=radical)
+
+📫 Let’s connect:
+	•	Twitter: @alignedbuilder
+	•	Email: alignedbuilder@proton.me
