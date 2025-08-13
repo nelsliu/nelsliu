@@ -28,7 +28,6 @@ Hey, I’m Nelson 👋
 ⸻
 
 📈 Goals
-	•	Build & scale ops tools to reach financial freedom
 	•	Ship fast, iterate faster, and refine with real-world feedback
 	•	Share progress & lessons publicly along the way
 
