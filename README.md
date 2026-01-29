@@ -7,7 +7,7 @@ Hey, I’m Nelson 👋
 ⸻
 
 🧑‍💻 Current Projects
-	•	Cost Guardian – Track & manage OpenAI token usage before costs get out of hand
+	•	Ping-You – Text receptionist that handles service business' FAQs, helps secure bookings, vets for interested leads
 	•	WeChef – Food cost & inventory tool for chefs and restaurants (goodbye spreadsheet chaos)
 
 ⸻
