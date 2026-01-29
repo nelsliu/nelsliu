@@ -7,12 +7,14 @@ Hey, I’m Nelson 👋
 ⸻
 
 🧑‍💻 Current Projects
+
 	•	Ping-You – Text receptionist that handles service business' FAQs, helps secure bookings, vets for interested leads
 	•	WeChef – Food cost & inventory tool for chefs and restaurants (goodbye spreadsheet chaos)
 
 ⸻
 
 🛠 Tech & Tools I Work With
+
 	•	Languages: Python, JavaScript, SQL
 	•	Frameworks & Tools: Flask, Docker, n8n, OpenAI API
 	•	Databases: SQLite, PostgreSQL
